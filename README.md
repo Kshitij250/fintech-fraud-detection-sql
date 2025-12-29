@@ -26,5 +26,4 @@ Generated a consolidated SQL view customer_fraud_summary containing:
 # Skills & Keywords
 SQL • Fraud & Risk Analytics • Anomaly Detection • FinTech Data Modeling
 
-The output is analytics-ready and suitable for Power BI, Tableau, Python, or machine learning pipelines.
 
